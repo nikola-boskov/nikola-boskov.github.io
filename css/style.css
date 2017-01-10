@@ -1124,4 +1124,20 @@ footer span.glyphicon.glyphicon-chevron-up {
 }
 }
 
-
+.work_experience {
+	height: 200px;
+	border-bottom: 1px solid black;
+	background-color: rgba(129, 224, 144, 0.14);
+}
+.experience_header {
+	padding-top: 0px !important;
+}
+.experience {
+	text-align: center;
+	width: 80% !important;
+	margin-left: auto;
+	margin-right: auto;
+}
+.exp-holder {
+	width: 100%;
+}
