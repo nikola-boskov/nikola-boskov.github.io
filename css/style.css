@@ -81,18 +81,19 @@ body {
     border-color:transparent;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-    color: black !important;
+    color: #ff3300 !important;
     background-color: rgba(8, 8, 8, 0);
 }
 .navbar-inverse .navbar-brand {
-    color: black;
+    color: white;
 	font-size:2.5em;
 	font-family: 'Cinzel', serif;
 	font-weight:bold;
 	text-transform:uppercase;
 }
 .navbar-inverse .navbar-nav>li>a {
-    color: black;
+    color: #ff3300;
+    font-weight: bold !important;
     font-size: 1.2em;
     font-weight: normal;
 }
@@ -215,7 +216,7 @@ body {
     margin: 280px 0 0 390px;
 }
 .banner-info h3{
-	color: black;
+	color: white;
 	font-size: 52px;
 	font-weight: bold;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
@@ -224,7 +225,7 @@ body {
 	padding: 60px 0 20px 0;
 }
 .banner-info p {
-	color: black;
+	color: white;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 	font-size: 34px;
 	font-weight: normal;
